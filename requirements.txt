@@ -1,0 +1,13 @@
+# Task Manager and Expense Tracker
+# Python 3.6+ required
+
+# No external dependencies required
+# The application uses only Python standard library modules:
+# - hashlib (for password hashing)
+# - json (for data storage)
+# - csv (for expense data)
+# - os (for file operations)
+# - datetime (for timestamps)
+# - typing (for type hints)
+# - platform (for cross-platform compatibility)
+
